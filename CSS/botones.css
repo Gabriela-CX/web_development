@@ -1,0 +1,61 @@
+body {
+	background: #f2f2f2;
+	font-family: "Open Sans", Arial, Sans-serif;
+
+}
+
+div {
+	margin: 20px 0px;
+}
+
+.btn {
+	background: #F4442E;
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-block;
+	margin: 0px 10px;
+}
+
+.btn:hover {
+	opacity: .8;
+}
+
+
+/*Tamaños*/
+.small {
+	font-size: 14px;
+	padding: 10px 15px;
+
+}
+
+.medium {
+	font-size: 16px;
+	padding: 15px 20px;
+
+}
+
+.big {
+	font-size: 18px;
+	padding: 20px 25px;
+
+}
+
+.extra-big {
+	font-size: 20px;
+	padding: 25px 30px;
+
+}
+
+/*Colores*/
+
+.light-blue {background: #B4C5E4;}
+.true-blue {background: #3066BE;}
+.duke-blue {background: #090C9B;}
+
+/*Bordes*/
+
+.border-radius {
+	border-radius: 100px;
+}
